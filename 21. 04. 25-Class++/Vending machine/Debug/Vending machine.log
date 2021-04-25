@@ -1,0 +1,4 @@
+﻿  GameRoot.cpp
+C:\Users\PL_4D_003\Desktop\21_04_25\21. 04. 25-Class++\Vending machine\GameRoot.cpp(2,1): error C2857: /Ycstdafx.h 명령줄 옵션과 함께 지정한 '#include' 문이 소스 파일에 없습니다.
+  main.cpp
+  stdafx.cpp
